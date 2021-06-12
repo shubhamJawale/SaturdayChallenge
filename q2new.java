@@ -123,7 +123,7 @@ class LinkedList{
      }
 }
 
-public class q2{
+public class q2new{
     
 
         public static void main(String[] args) {
